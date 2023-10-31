@@ -5,41 +5,41 @@ import { createStore } from 'zustand/vanilla'
 const assetsToLoad = [
     {
         id: 'avatar',
-        path: '/models/avatar.glb',
+        path: './models/avatar.glb',
         type: 'model'
     },
     {
         id: 'iron_man',
-        path: '/models/iron_man.glb',
+        path: './models/iron_man.glb',
         type: 'model'
     },
     {
         id: 'iphone',
-        path: '/models/iphone_14_pro.glb',
+        path: './models/iphone_14_pro.glb',
         type: 'model'
     },
     {
         id: 'macbook',
-        path: '/models/macbook.glb',
+        path: './models/macbook.glb',
         type: 'model'
     },
     {
         id: 'car',
-        path: '/models/audir8.glb',
+        path: './models/audir8.glb',
         type: 'model'
     },
     {
         id: 'tesseract',
-        path: '/models/tesseract.glb',
+        path: './models/tesseract.glb',
         type: 'model'
     },
     {
         id: 'environment',
-        path: '/models/environment.glb',
+        path: './models/environment.glb',
         type: 'model'
     },
     {
-        path: '/textures/city.jpg',
+        path: './textures/city.jpg',
         id: 'city',
         type: 'texture',
     },
@@ -54,7 +54,7 @@ const assetsToLoad = [
     //     type: 'texture',
     // },
     {
-        path: '/textures/2k_sun.jpg',
+        path: './textures/2k_sun.jpg',
         id: 'sun',
         type: 'texture',
     },
