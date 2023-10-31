@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spider-man from Spider-man: No way Home
+* source:	https://sketchfab.com/3d-models/spider-man-from-spider-man-no-way-home-2cb11e591cc44357bffc6e23931a78e2
+* author:	Djvu (https://sketchfab.com/DjvuOn3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spider-man from Spider-man: No way Home" (https://sketchfab.com/3d-models/spider-man-from-spider-man-no-way-home-2cb11e591cc44357bffc6e23931a78e2) by Djvu (https://sketchfab.com/DjvuOn3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
