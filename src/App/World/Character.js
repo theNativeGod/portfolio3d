@@ -85,9 +85,6 @@ export default class Character {
             if (this.character.position.z < 13.4) {
                 movement.z += 1
             }
-
-
-
         }
         if (this.left) {
             if (this.character.position.x >= -16.5) {
